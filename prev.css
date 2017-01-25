@@ -1,0 +1,40 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	font-family: "Arial";
+}
+
+h1 {
+	background: aqua;
+	color: white;
+	font-size: 50px;
+	transform: skew(0deg, 3deg);
+	font-family: "Lobster", cursive;
+	height: 100px;
+	line-height: 100px;
+}
+
+h1 ~ table {
+	background: silver;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+h1 ~ table td:hover {
+	background: gray;
+}
+
+h1 ~ table a:hover {
+	color: white;
+}
+
+#about {
+	
+}
+
+#projects {
+	
+}
