@@ -1,5 +1,6 @@
 * {
 	height: 100%;
+	width: 100%;
 	margin: 0;
 }
 
@@ -12,5 +13,6 @@
 	font-family: "Lobster", cursive;
 	text-align: center;
 	font-size: 100px;
+	text-shadow: -5px 5px 0 black;
 	
 }
